@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!--  
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
@@ -44,7 +44,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
+-->
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
@@ -64,7 +64,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
