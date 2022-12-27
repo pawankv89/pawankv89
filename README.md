@@ -10,7 +10,7 @@ Custom My Repo Link:- https://pawankv89.github.io/github-repo-list/
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-[![Header](https://github-profile-trophy.vercel.app/?username=pawankv89&theme=flat)
+https://github-profile-trophy.vercel.app/?username=pawankv89&theme=flat
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
